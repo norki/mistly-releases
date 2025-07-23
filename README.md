@@ -12,7 +12,7 @@ A powerful desktop application for managing your Guild Wars 2 account data.
 
 ## Download
 
-Download the latest version for your platform from the [Releases](https://github.com/YOUR_USERNAME/mistly-releases/releases) page.
+Download the latest version for your platform from the [Releases](https://github.com/norki/mistly-releases/releases) page.
 
 - **Windows**: Download the `.exe` installer
 - **macOS**: Download the `.dmg` file  
@@ -48,7 +48,7 @@ Mistly automatically checks for updates when launched. When an update is availab
 
 ## Support
 
-For issues, feature requests, or questions, please visit [Discussions](https://github.com/YOUR_USERNAME/mistly-releases/discussions).
+For issues, feature requests, or questions, please visit [Discussions](https://github.com/norki/mistly-releases/discussions).
 
 ---
 
