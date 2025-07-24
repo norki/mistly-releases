@@ -36,6 +36,7 @@ A powerful desktop application for Guild Wars 2 that provides inventory manageme
 
 ### 📈 Smart Inventory Analysis
 - **Intelligent Recommendations**: Get personalized advice on whether to salvage, sell, or keep each item
+- **Profile-Aware Decisions**: Recommendations adapt to your account progression (New Player → Elite)
 - **Economic Optimization**: Maximize profits with data-driven decisions based on current Trading Post prices
 - **Salvage Kit Selection**: Automatically recommends the most cost-effective salvage kit for each item
 - **Batch Processing**: Analyze single characters or your entire account at once
