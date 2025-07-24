@@ -8,10 +8,20 @@ A powerful desktop application for Guild Wars 2 that provides inventory manageme
 
 ## 🎮 Features
 
+### 🎨 Beautiful GW2-Themed Interface
+- Dark theme inspired by Guild Wars 2's UI design
+- Professional icon system throughout the application
+- Smooth animations and visual feedback
+- Card-based item displays with GW2 API icons
+- Keyboard shortcuts for power users (Press ? for help)
+- Toast notifications for all actions
+- Skeleton loading screens for better performance
+
 ### 🎒 Inventory Manager
 - View all items across character inventories
-- Real-time Trading Post prices
-- Color-coded rarity display
+- Real-time Trading Post prices with item icons
+- Toggle between grid and list view modes
+- Color-coded rarity borders and text
 - Calculate total inventory value
 - Export to CSV/JSON
 - Sort by value to find most valuable items
@@ -37,12 +47,18 @@ A powerful desktop application for Guild Wars 2 that provides inventory manageme
 - Find items by name or description
 - Instant location tracking
 
+### ⌨️ Keyboard Shortcuts
+- **Ctrl+1-7**: Quick navigation between sections
+- **/**: Focus search (when available)
+- **?**: Show keyboard shortcuts help
+- **Esc**: Close dialogs and modals
+
 ### 📊 Additional Features
-- **Modern Desktop Interface**: Native desktop app with dark theme
+- **Modern Desktop Interface**: Native desktop app with GW2-themed dark UI
 - **Auto-Updates**: Stay up to date automatically
 - **Caching System**: Reduces API calls and improves performance
 - **Rate Limiting**: Respects GW2 API limits automatically
-- **Progress Indicators**: Shows progress for long operations
+- **Progress Indicators**: Skeleton screens and loading states
 - **Export Options**: CSV and JSON export for all data
 
 ## 🚀 Download & Installation
