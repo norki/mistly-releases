@@ -162,20 +162,27 @@ Mistly uses a hybrid architecture:
 - You can update your API key in the Settings menu
 
 ### Auto-Update Issues
-- Check your internet connection
-- Ensure the app has write permissions to its installation directory
-- Manually download the latest version if needed
-- Updates are checked on app startup
+- The app automatically checks for updates on startup
+- You can manually check for updates in Settings → Updates → "Check for Updates"
+- Updates download in the background and prompt you to restart
+- If auto-update fails, manually download the latest version from the releases page
+- **Note**: Auto-updates require v1.0.21 or later (earlier versions had update issues)
 
-### Recent Updates (v1.0.15)
-- **New**: API key setup modal on first launch
-- **New**: Persistent API key storage between sessions
-- **Fixed**: Windows startup issues with embedded Python
-- **Fixed**: Backend connection problems
-- **Improved**: Better error messages and user guidance
+### Recent Updates (v1.0.21)
+- **Fixed**: Auto-updater now works correctly
+- **New**: Manual "Check for Updates" button in Settings
+- **New**: Smart Inventory Analysis with salvage/sell recommendations
+- **New**: Economic optimization for maximum profit
+- **Improved**: Better error handling and user feedback
+
+### What's New in v1.0.16+
+- **Inventory Analysis**: Get personalized recommendations for each item
+- **Salvage Optimization**: Automatically suggests the best salvage kit
+- **Material Value Tracking**: See true salvage values vs Trading Post prices
+- **Account-wide Analysis**: Analyze your entire account at once
 
 ### Minimum Version Requirement
-Please ensure you're running at least v1.0.15 for the best experience. Earlier versions had various startup issues that have been resolved.
+Please ensure you're running at least v1.0.21 for working auto-updates. Version 1.0.16+ includes the powerful inventory analysis features.
 
 ## 🤝 Contributing
 
